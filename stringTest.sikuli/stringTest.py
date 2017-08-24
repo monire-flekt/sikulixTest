@@ -1,5 +1,6 @@
+s1 = Screen(0)
 a = 1
 b = 5
 a= a+b+b+b
 print(a)
-popup("Hello! ")
+s2 = popup("Hello! ")
