@@ -3,4 +3,6 @@ a = 1
 b = 5
 a= a+b+b+b
 print(a)
-s2 = popup("Hello! ")
+popup("Hello! ")
+popat(10,20)
+
